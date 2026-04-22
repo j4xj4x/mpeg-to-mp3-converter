@@ -26,7 +26,7 @@ Script en Python para convertir archivos **.mpeg / .mpg a .mp3** usando FFmpeg d
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/j4xj4x/MPEG-to-MP3-Converter.git
+git clone https://github.com/j4xj4x/mpeg-to-mp3-converter.git
 cd mpeg-to-mp3-converter
 ```
 
